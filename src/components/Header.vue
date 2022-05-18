@@ -6,10 +6,8 @@
         <div class="flex items-center justify-between w-full h-full text-[#BDEBEA] px-3">
             <a href="/">Home</a>
             <div class="flex items-center justify-between w-60">
-                <a href="/projects" class="rounded-md px-5 py-3 ">Projects</a>
-                <a href="/contact" class="btnFocus rounded-md px-5 py-3 ">Contact</a>
-
-
+                <router-link :to="'/projects'" class="rounded-md px-5 py-3 ">Projects</router-link>
+                <router-link :to="'/contact'" class="btnFocus rounded-md px-5 py-3 ">Contact</router-link>
             </div>
         </div>
 
