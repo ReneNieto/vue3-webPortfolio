@@ -14,9 +14,9 @@
                     Hello, I'm always looking for new challenges and opportunities to learn new things,
                     drop me a line!.
                 </p>
-                <a href="/contact" class="inline-block mt-10 px-5 py-3 mx-4 text-black rounded heroContact ">Contact
-                    Me</a>
-                <a download href="../../public/cv.pdf"
+          
+                <router-link :to="'/contact'"  class="inline-block mt-10 px-5 py-3 mx-4 text-black rounded heroContact ">Contact Me</router-link>
+                <a download href="./cv.pdf"
                     class="inline-block mt-10 px-10 py-3 mx-4 text-black rounded heroContact ">CV</a>
             </div>
             <div class="w-1/2">
