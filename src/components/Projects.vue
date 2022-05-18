@@ -69,13 +69,9 @@
                 </div>
             </div>
         </div>
+            
+        <router-link :to="'/projects'" class=" block w-fit px-16 py-4 text-base font-medium text-black rounded mx-auto mt-12  projectsBtn">SEE ALL PROJECTS</router-link>
 
-
-
-        <a href="/projects"
-            class=" block w-fit px-16 py-4 text-base font-medium text-black rounded mx-auto mt-12  projectsBtn"> SEE
-            ALL
-            PROJECTS</a>
 
     </section>
 
