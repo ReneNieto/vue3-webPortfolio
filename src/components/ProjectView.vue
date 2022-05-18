@@ -1,6 +1,6 @@
 <script setup>
 import Header from './Header.vue';
-import ReactChat from '../assets/react-chat.jpeg';
+import ReactChat from '../assets/react-Chat.jpeg';
 import LoopGallery from '../assets/infinityScroll.jpeg'
 import VueChat from '../assets/vue-chat.jpeg'
 import Calculator from '../assets/calculator.jpeg'
