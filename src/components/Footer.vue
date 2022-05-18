@@ -17,9 +17,8 @@
 
         </div>
         <div class="w-full flex justify-center items-center gap-20 mb-8 ">
-            <a href="/projects">Projects</a>
-            <a href="/contact">Contact</a>
-
+            <router-link :to="'/projects'" >Projects</router-link>
+             <router-link :to="'/contact'">Contact</router-link>
         </div>
         <div class="mb-8">
             <p class="">Rene Nieto 2022</p>
