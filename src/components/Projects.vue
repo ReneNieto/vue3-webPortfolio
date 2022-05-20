@@ -34,10 +34,7 @@
                             class="flex justify-center items-center text-xs text-black uppercase px-4 py-2 mx-1 rounded w-fit projectTag">Pusher
                         </a>
                     </div>
-                    <p class="px-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam voluptate
-                        consequuntur
-                        mollitia
-                        omnis, laudantium aspernatur dolore aperiam eos nulla a doloremque debitis
+                    <p class="px-4">A real time chat application built with React.js using using some libraries such as Formik, emojiPicker and ChackraUI .
                     </p>
                 </div>
             </div>
@@ -61,10 +58,7 @@
                             class="flex justify-center items-center text-xs text-black uppercase px-4 py-2 mx-1 rounded w-fit projectTag">JavaScript
                         </a>
                     </div>
-                    <p class="px-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam voluptate
-                        consequuntur
-                        mollitia
-                        omnis, laudantium aspernatur dolore aperiam eos nulla a doloremque debitis
+                    <p class="px-4">A looping scroll gallery built JavaScript.
                     </p>
                 </div>
             </div>
